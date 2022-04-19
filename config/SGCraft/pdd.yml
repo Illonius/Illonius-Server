@@ -1,0 +1,12 @@
+addresses:
+    P2X3-YZ0-PL:
+        name: Earth
+        locked: true
+
+    M125-780-ML:
+	name: Atlantis
+	locked: true
+
+    1161-R30-1D:
+	name: Destiny
+	locked: true
